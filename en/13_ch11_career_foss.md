@@ -50,6 +50,8 @@ Adaptability and resilience are also important qualities, as the open source dev
 
 There are many success stories that illustrate the importance and potential of an open source career. Linus Torvalds, creator of Linux, started with an open source project that became one of the most important operating systems in the world. Guido van Rossum, creator of the Python programming language, also launched his project as open source, which is now widely used.
 
+**Working on open source projects is the perfect way to build a portfolio. When you work as a software developer in private companies, you usually cannot include the projects in your portfolio due to confidentiality agreements and intellectual property. In contrast, open source projects are public by nature, allowing you to showcase your work, contributions, and skills transparently to potential employers and collaborators.**
+
 **Moreover, a career built on open source software is meritocratic. If you stand out, it's because you are genuinely generating value. This can become a defense against arbitrary corporate systems that, in a layoff situation, end up discarding excellent professionals due to external reasons.**
 
 ### 11.1 Philosophy of Bitcoin Development
